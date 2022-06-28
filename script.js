@@ -4,7 +4,7 @@ const minE1 = document.getElementById('min');
 const secE1 = document.getElementById('sec');
 
 // Initializing the first date of new year
-const newyears = '1 Jan 2022';
+const newyears = '10 Dec 2022';
 
 function countdown() {
     const nyd = new Date(newyears); // initialize the first date time and sec
